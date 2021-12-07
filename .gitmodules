@@ -1,0 +1,4 @@
+[submodule "ColBERT"]
+	path = ColBERT
+	url = https://github.com/stanford-futuredata/ColBERT.git
+	branch = new_api
