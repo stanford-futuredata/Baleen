@@ -3,7 +3,7 @@
 ### Baleen is a state-of-the-art model for multi-hop reasoning, enabling scalable multi-hop search over massive collections for knowledge-intensive tasks like QA and claim verification.
 
 <p align="center">
-  <img align="center" src="docs/images/Architecture.png" />
+  <img align="center" width="750px" src="docs/images/Architecture.png" />
 </p>
 <p align="center">
   <b>Figure 1:</b> Baleen's condensed retrieval architecture for multi-hop search.
